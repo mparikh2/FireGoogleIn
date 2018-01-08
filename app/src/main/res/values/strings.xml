@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FireGoogleIn</string>
+
+    <string name="client_id">226562730572-jbgdkkr7ccvk4orm49qlceb8qv5oi7aj.apps.googleusercontent.com</string>
+    <string name="loading">Loading...</string>
+    <string name="signed_out">Log Out</string>
+    <string name="signed_out_failed">Failed To Sign Out</string>
+    <string name="unable_to_sign_in">Unable to sign in</string>
+</resources>
